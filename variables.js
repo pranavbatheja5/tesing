@@ -1,0 +1,14 @@
+var name = "Pranav";
+let age = 20;
+const country = "India";
+let marks = 80;
+const pi = 3.14;
+let fruits = ["Apple", "Mango", "Banana"];
+let student = {name: "Pranav",age: 20, };
+console.log(name);
+console.log(age);
+console.log(country);
+console.log(marks);
+console.log(pi);
+console.log(fruits);
+console.log(student);
